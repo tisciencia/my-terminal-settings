@@ -1,5 +1,3 @@
-# git
-
 ## git settings 
 
 run `git config --global --edit`
@@ -21,7 +19,7 @@ add this settings
 ```
 
 
-## instal zsh
+## install zsh
 
 run `brew install zsh`
 
