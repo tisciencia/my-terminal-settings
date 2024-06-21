@@ -42,3 +42,11 @@ zinit light zdharma/fast-syntax-highlighting
 zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-completions
 ```
+
+## brew install
+
+* brew install jq
+* brew install docker
+* brew install docker-compose
+* brew install gh
+* brew install yarn
